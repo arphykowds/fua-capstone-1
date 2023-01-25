@@ -1,0 +1,66 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+.nav-button {
+	font-size: 20px;
+	font-weight: bold;
+	margin-right: 2rem;
+	border: none;
+	padding: 10px;
+}
+
+.image-one {
+	background-image: url(./images/trees.webp);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	min-height: 80vh;
+	background-position: center;
+	background-attachment: fixed;
+
+
+}
+
+.nav-only {
+	z-index: 1;
+	position: sticky;
+	top: 0;
+	background-color: #C27664;
+}
+
+
+
+#body-height {
+	min-height: 200vh;
+}
+
+.image-two {
+	background-image: url(./images/trees.webp);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	min-height: 80vh;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+
+.para-one {
+	background-color: #FFC3A1;
+	color: #A75D5D;
+	border-radius: 15px;
+	font-weight: bold;
+}
+
+.image-three {
+	background-image: url(./images/trees.webp);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	min-height: 80vh;
+	background-position: center;
+	background-attachment: fixed;
+}
+
