@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+*{
+	font-family: 'righteous';
+}
+
+.image-one	{
+	background-image: url(./images/final.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	min-height: 290vh;
+	background-position: center;
+	background-attachment: fixed;
+
+}
+
+.nav-only {
+	position: sticky;
+	z-index: 1;
+	top: 0;
+	background-color: #F7EFE5;
+}
